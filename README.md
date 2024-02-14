@@ -1,4 +1,3 @@
-```markdown
 # Automated Machine Learning Pipeline for Iris Dataset Classification
 
 This project implements an automated machine learning pipeline for classifying the Iris dataset using a Decision Tree classifier. The pipeline includes dimensionality reduction using Principal Component Analysis (PCA), standard scaling of features, and training the classifier. The project serves as a demonstration of how to create an end-to-end machine learning workflow using scikit-learn pipelines.
