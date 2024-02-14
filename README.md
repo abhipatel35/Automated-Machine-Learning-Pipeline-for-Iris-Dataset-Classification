@@ -21,7 +21,7 @@ pip install scikit-learn numpy
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abhipatel35/automated-ml-pipeline-iris.git
+git clone https://github.com/abhipatel35/Automated-Machine-Learning-Pipeline-for-Iris-Dataset-Classification.git
 ```
 
 2. Navigate to the project directory:
